@@ -77,3 +77,20 @@ int main()
     }
     return 0;
 }
+/* ouC Program to Insert and Delete an Element in an Array using switch case
+1. Inserting an Element in an Array
+2. Deleting an Element in an Array
+Select your choice : 2
+Enter the size of an array
+4
+Enter elements
+1
+2
+3
+4
+List before deletion
+1 2 3 4 
+Enter an element to delete
+5
+List after deletion
+1 2 3tput; */
