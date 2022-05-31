@@ -18,3 +18,6 @@ void main()
             printf("%d",factorial);
         }
 }
+/* output;
+enter a number =6
+factorial =720 */
