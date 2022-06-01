@@ -8,3 +8,4 @@
 [relationopr.c](relationopr.c)   
 [singllimkedlist.c](singlelimkedlist.c)   
 [sumnatural.c](sumnatural.c)
+[assignmentopr.c](assignmentopr.c)
