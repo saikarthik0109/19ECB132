@@ -3,4 +3,5 @@
 [binarrytree.c](binarytree.c)   
 [doublelinkedlist.c](doublelinkedlist.c)   
 [factorial.c](factorial.c)   
-[lineardatastructure.c](lineardatastructue.c)
+[lineardatastructure.c](lineardatastructue.c)   
+[logicalopr.c](logicalopr.c)
