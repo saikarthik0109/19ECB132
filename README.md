@@ -4,4 +4,5 @@
 [doublelinkedlist.c](doublelinkedlist.c)   
 [factorial.c](factorial.c)   
 [lineardatastructure.c](lineardatastructue.c)   
-[logicalopr.c](logicalopr.c)
+[logicalopr.c](logicalopr.c)   
+[relationopr.c](relationopr.c)
