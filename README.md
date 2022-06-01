@@ -5,4 +5,5 @@
 [factorial.c](factorial.c)   
 [lineardatastructure.c](lineardatastructue.c)   
 [logicalopr.c](logicalopr.c)   
-[relationopr.c](relationopr.c)
+[relationopr.c](relationopr.c)   
+[singllimkedlist.c](singlelimkedlist.c)
