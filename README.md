@@ -6,4 +6,5 @@
 [lineardatastructure.c](lineardatastructue.c)   
 [logicalopr.c](logicalopr.c)   
 [relationopr.c](relationopr.c)   
-[singllimkedlist.c](singlelimkedlist.c)
+[singllimkedlist.c](singlelimkedlist.c)   
+[sumnatural.c](sumnatural.c)
